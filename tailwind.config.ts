@@ -30,6 +30,8 @@ const config = {
         },
         blue: {
           1: '#0E78F9',
+          2: '#637ACA',
+          3: '#1E2757',
         },
         sky: {
           1: '#C9DDFF',
@@ -58,7 +60,7 @@ const config = {
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
       backgroundImage: {
-        hero: "url('/images/hero-background.png')",
+        hero: "url('/images/background-1.png')",
       },
     },
   },
